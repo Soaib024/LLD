@@ -1,0 +1,3 @@
+- Identify the requirements
+- Model the problem
+- Establish the classes and their relationships
