@@ -1,0 +1,1 @@
+it introduces global state and can make testing and maintenance more challenging
