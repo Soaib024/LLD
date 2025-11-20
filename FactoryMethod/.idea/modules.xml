@@ -4,9 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AbstractFactoryMethod/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/../AbstractFactoryMethod/AbstractFactory/AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Adaptor/Adaptor.iml" filepath="$PROJECT_DIR$/../Adaptor/Adaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bridge/Bridge.iml" filepath="$PROJECT_DIR$/../Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Builder/Builder.iml" filepath="$PROJECT_DIR$/../Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Composite/Composite.iml" filepath="$PROJECT_DIR$/../Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Decorator/Decorator.iml" filepath="$PROJECT_DIR$/../Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Facade/Facade.iml" filepath="$PROJECT_DIR$/../Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Prototype/Prototype.iml" filepath="$PROJECT_DIR$/../Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Proxy/Proxy.iml" filepath="$PROJECT_DIR$/../Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rough/Rough.iml" filepath="$PROJECT_DIR$/../Rough/Rough.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Singleton/Singleton.iml" filepath="$PROJECT_DIR$/../Singleton/Singleton.iml" />
     </modules>
   </component>
